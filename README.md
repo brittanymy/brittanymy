@@ -1,7 +1,6 @@
 ### Hi, I'm Brittany
  
-
-#### Welcome
+<br /> <br />
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="150"/>
 </div>
