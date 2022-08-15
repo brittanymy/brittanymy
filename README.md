@@ -1,7 +1,6 @@
 <div id="header" align="center">
     "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world." -Albert Einstein <br />
-    
-   <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="270"/>
+    <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="270"/>
 
 ##   Hi, I'm Brittany
 ##### Let's Connect Here:
@@ -37,7 +36,7 @@ const brittany = {
 }
 ```
 
-### <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="40"/> Languages and tools..
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> Languages and tools..
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
