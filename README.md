@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world." -Albert Einstein
+    "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world." -Albert Einstein <br />
     <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="270"/>
 
 ##   Hi, I'm Brittany
@@ -36,7 +36,7 @@ const brittany = {
 }
 ```
 
-### <img src="https://media.giphy.com/media/YpTqhYQPaXv6nyo1m9/giphy.gif" width="25" /> Languages and tools..
+### <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="40"/> Languages and tools..
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -58,6 +58,6 @@ const brittany = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
-</div>
+</div> 
 
-### <img src="https://giphy.com/stickers/transparent-UQCff4Wz8JmMeV2mrS" width="50"/> My GitHub stats..
+### <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="30" /> My GitHub stats..
