@@ -35,7 +35,7 @@
   }
   ```
 
-### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> Languages and tools..
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="20"/> Languages and tools..
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -59,4 +59,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
   </div> 
 
-### <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="30" /> My GitHub stats..
+### <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="20" /> My GitHub stats..
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brittanymy&theme=dark&background=715c83)](https://git.io/streak-stats)
