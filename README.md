@@ -60,4 +60,4 @@ const brittany = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
 </div> 
 
-### <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="30" /> My GitHub stats..
+### <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="30" /> My GitHub stats..
