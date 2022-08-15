@@ -6,7 +6,7 @@
 
 ##### Let's Connect Here:
 <div id="badges">
-    <a href="www.linkedin.com/in/brittany-young-35a35a22a">
+    <a href="www.linkedin.com/in/brittanymy">
         <img src="https://img.shields.io/badge/linkedin-715c83.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://stackoverflow.com/users/17817900/brittany">
