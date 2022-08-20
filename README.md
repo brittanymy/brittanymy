@@ -22,7 +22,7 @@
 </div>
 </div>
 
-## <img src="https://media.giphy.com/media/nbNiYAzTBideb1CpIP/giphy.gif" width="40"/> A little about me..
+### <img src="https://media.giphy.com/media/nbNiYAzTBideb1CpIP/giphy.gif" width="40"/> A little about me..
   ```javascript
   const brittany = {
     pronouns: "she" | "her",
