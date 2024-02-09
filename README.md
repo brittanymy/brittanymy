@@ -27,12 +27,12 @@
   const brittany = {
     pronouns: "she" | "her",
     services: ["Web Development", "Graphic Design"],
-    location: ["Cary, North Carolina"],
+    location: ["Morrisville, North Carolina"],
     contactMe: {
-      email: "brittany.young2001@gmail.com",
-      website: "https://brittanymy.github.io/legendary-carnival/"
+      email: "bmyoung@my.waketech.edu",
+      LinkedIn: "linkedin.com/in/brittanymy"
     },
-    interests: ["Gardening", "Music", "Productivity"]
+    interests: ["Music", "Productivity"]
   }
   ```
 
