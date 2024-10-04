@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world." -Buddha <br />
+    
     <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="270"/>
 
 <h1> Hi, I'm Brittany </h1>
