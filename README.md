@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world." -Buddha <br />
+    "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."<br />
     <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="270"/>
 
 <h1> Hi, I'm Brittany </h1>
@@ -25,14 +25,13 @@
 ### <img src="https://media.giphy.com/media/nbNiYAzTBideb1CpIP/giphy.gif" width="40"/> A little about me..
   ```javascript
   const brittany = {
-    pronouns: "she" | "her",
-    services: ["Web Development", "Graphic Design"],
+    service: ["Web Development"],
     location: ["Morrisville, North Carolina"],
     contactMe: {
       email: "bmyoung@my.waketech.edu",
       LinkedIn: "linkedin.com/in/brittanymy"
     },
-    interests: ["Music", "Productivity"]
+    interests: ["Jesus", "Music", "Productivity"]
   }
   ```
 
